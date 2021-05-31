@@ -4,7 +4,7 @@
 
 # back-end
 
-`backend` `nodejs` `express`
+`backend` `nodejs` `express` `mongo DB`
 
 # 개발 주요 사항
 
