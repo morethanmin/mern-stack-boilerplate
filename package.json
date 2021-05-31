@@ -1,0 +1,17 @@
+{
+  "name": "boiler-plate",
+  "version": "1.0.0",
+  "description": "`react` `redux` `antd`",
+  "engines": {
+    "node": "14.15.0",
+    "npm": "6.14.8"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "heroku-postbuild": "npm i --prefix server && npm i --prefix client",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
