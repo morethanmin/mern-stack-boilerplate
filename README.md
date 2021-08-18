@@ -6,7 +6,7 @@
 
 `backend` `nodejs` `express` `mongo DB`
 
-# 개발 주요 사항
+# feat
 
 - JWT Token Login
 - auth
